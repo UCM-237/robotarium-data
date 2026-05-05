@@ -1,0 +1,2 @@
+timestamp,x,y,theta,x_estimate,y_estimate,theta_estimate,status,x_min,x_max,y_min,y_max,dist_to_wall,decision_v,decision_w
+1777563338.185254,0.0,0.0,0.0,0.0,0.0,0.0,ESTIMA,0.0,0.0,0.0,0.0,0.0,0.0,1.5
