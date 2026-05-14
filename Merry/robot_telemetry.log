@@ -1,0 +1,9 @@
+2026-04-28 16:56:29.639 - INFO - [pi_agent_limits] - SISTEMA DE LOGGING INICIALIZADO - Archivo: robot_telemetry.log
+2026-04-28 16:56:29.639 - INFO - [pi_agent_limits] - =
+2026-04-28 16:56:29.639 - INFO - [pi_agent_limits] -  INICIANDO ROBOT AGENT CON CONTROL DE LIMITES
+2026-04-28 16:56:29.639 - INFO - [pi_agent_limits] - [main] Leyendo configuración desde AgentConfiguration.xml...
+2026-04-28 16:56:29.647 - INFO - [pi_agent_limits] - AgentID: 0
+2026-04-28 16:56:29.647 - INFO - [pi_agent_limits] - [main] Configuración cargada: RobotAgent1
+2026-04-28 16:56:29.647 - INFO - [pi_agent_limits] - [main] Velocidad aleatoria máxima: 4.0ms
+2026-04-28 16:56:29.647 - INFO - [pi_agent_limits] - [main] Distancia de seguridad: 0.15 m
+2026-04-28 16:56:29.647 - INFO - [pi_agent_limits] - [main] Creando agente ZMQ...
