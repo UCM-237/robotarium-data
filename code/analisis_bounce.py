@@ -6,9 +6,10 @@ from datetime import datetime
 from matplotlib.animation import FuncAnimation
 
 # --- CONFIGURACIÓN ---
-LOG_FILE_PATH = "../Frodo/robot_6_log_20260602_165734.csv.log"  # Cambia por la ruta de tu archivo
-TATAMI_WIDTH = 450.0
-TATAMI_HEIGHT = 140.0
+LOG_FILE_PATH = "../Frodo/robot_6_log_20260604_162118.csv.log"  # Cambia por la ruta de tu archivo
+# --- CONFIGURACIÓN DE LOS LÍMITES REALES DE TU ARENA ---
+X_MIN, X_MAX = -102.0, 298.0
+Y_MIN, Y_MAX = 16.0, 160.0
 # --- CONFIGURACIÓN DE ORIENTACIÓN REAL ---
 INVERTIR_EJE_X = True   # <--- CAMBIA A True O False PARA ALINEARLO CON TU TATAMI REAL
 INVERTIR_EJE_Y = False  # <--- Por si el eje vertical también estuviera invertido
@@ -119,10 +120,12 @@ def analizar_log_completo(file_path):
     fig.suptitle(f"Simulación Animada FSM - Robot 6", fontsize=14, fontweight='bold')
     
     # Dibujar límites del Tatami estáticos
-    ax1.plot([0, TATAMI_WIDTH, TATAMI_WIDTH, 0, 0], [0, 0, TATAMI_HEIGHT, TATAMI_HEIGHT, 0], 'r--', linewidth=2)
-    ax1.axhspan(0, TATAMI_HEIGHT, color='gray', alpha=0.05)
-    ax1.set_xlim(-30, TATAMI_WIDTH + 30)
-    ax1.set_ylim(-30, TATAMI_HEIGHT + 30)
+    ax1.plot([X_MIN, X_MAX, X_MAX, X_MIN, X_MIN], [Y_MIN, Y_MIN, Y_MAX, Y_MAX, Y_MIN], 'r--', linewidth=2, label="Límites Reales")
+    ax1.axhspan(Y_MIN, Y_MAX, color='gray', alpha=0.05)
+    
+    # Añadir margen dinámico a los ejes para ver bien los rebotes exteriores
+    ax1.set_xlim(X_MIN - 20, X_MAX + 20)
+    ax1.set_ylim(Y_MIN - 20, Y_MAX + 20)
     if INVERTIR_EJE_X: ax1.invert_xaxis()
     if INVERTIR_EJE_Y: ax1.invert_yaxis()
     ax1.set_aspect('equal', adjustable='box')
@@ -210,10 +213,7 @@ def analizar_log_completo(file_path):
         robot_body.set_center((cx, cy))
 
         # 4. Calcular el extremo del radio basándonos en la orientación (theta)
-        ang_rad = angles[frame] - np.pi/2  # Convertir de "yaw" a ángulo de orientación (ajuste de 90°)
-        if ANGULO_CORRECCION_VISUAL != 0:
-            ang_rad += np.radians(ANGULO_CORRECCION_VISUAL)
-
+        ang_rad = angles[frame] + np.radians(ANGULO_CORRECCION_VISUAL)
         # Componentes de dirección del radio considerando inversiones de laboratorio
         dx = ROBOT_RADIUS * np.cos(ang_rad)
         dy = ROBOT_RADIUS * np.sin(ang_rad)
