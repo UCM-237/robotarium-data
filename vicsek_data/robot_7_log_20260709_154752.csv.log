@@ -1,0 +1,322 @@
+2026-07-09 15:47:52.639 - [robot_7_log_20260709_154752.csv] - INFO - Iniciando Robot_07 en el puerto de datos 5598...
+2026-07-09 15:47:53.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.646 - [robot_7_log_20260709_154752.csv] - INFO - Agent Bouncer Robot is listening
+2026-07-09 15:47:53.651 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 7/pos
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic b'arena/boundaries'
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic agent/7/feedback
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic agent/7/wheel
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 1/pos
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 2/pos
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 3/pos
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 4/pos
+2026-07-09 15:47:53.656 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 5/pos
+2026-07-09 15:47:53.661 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 6/pos
+2026-07-09 15:47:53.661 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 8/pos
+2026-07-09 15:47:53.661 - [robot_7_log_20260709_154752.csv] - INFO - Suscrito a topic 9/pos
+2026-07-09 15:47:53.677 - [robot_7_log_20260709_154752.csv] - INFO - Agent Bouncer Robot en marcha
+2026-07-09 15:47:53.682 - [robot_7_log_20260709_154752.csv] - INFO - Agente Bouncer Robot y despachador en marcha.
+2026-07-09 15:47:53.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.696 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.722 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.762 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.812 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.862 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.912 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:53.961 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:53.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.012 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.062 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.112 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.162 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.207 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.217 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:54.228 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:54.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.251 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.296 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.362 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.411 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.451 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.511 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.546 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.611 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.661 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.706 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.717 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:54.723 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:54.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.761 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.811 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.862 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.911 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:54.961 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:54.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.012 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.061 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.111 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.161 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.196 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.201 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:55.207 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:55.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.262 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.312 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.362 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.412 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.462 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.512 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.561 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.611 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.661 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.701 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.751 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:55.756 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.772 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:55.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.811 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.861 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.912 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:55.961 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:55.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.011 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.062 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.111 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.161 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.211 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.256 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.261 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:56.282 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:56.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.311 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.361 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.411 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.462 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.512 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.561 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.611 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.661 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.711 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.757 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:56.762 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.778 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:56.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.812 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.862 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.911 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:56.951 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:56.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.011 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.062 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.111 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.162 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.212 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.252 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:57.262 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.278 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:57.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.311 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.351 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.396 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.461 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.511 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.562 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.612 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.662 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.712 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.751 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:57.766 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.773 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:57.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.811 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.861 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.911 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:57.961 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:57.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.011 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.062 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.112 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.162 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.211 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.257 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.262 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:58.289 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:58.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.297 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.361 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.412 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.461 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.512 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.561 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.596 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.661 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.696 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.751 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:58.756 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.762 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:58.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.796 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.846 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.911 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:58.962 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:58.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.006 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.047 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.111 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.161 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.211 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.251 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:59.256 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.268 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:59.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.311 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.361 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.406 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.461 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.512 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.561 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.611 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.662 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.702 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.740 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.752 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.767 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:47:59.768 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:47:59.790 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.801 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.840 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.861 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.890 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.912 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.940 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:47:59.961 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:47:59.990 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.012 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.040 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.061 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.090 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.111 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.140 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.161 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.190 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.196 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.240 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
+2026-07-09 15:48:00.240 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.246 - [robot_7_log_20260709_154752.csv] - DEBUG - procesando ['agent', '7', 'wheel']
+2026-07-09 15:48:00.251 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.290 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.297 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.340 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.352 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.390 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.397 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.440 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.457 - [robot_7_log_20260709_154752.csv] - CRITICAL - Despachado a ZMQ -> agent/7/move: {'v': 0.0, 'w': 0.0}
+2026-07-09 15:48:00.490 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.540 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.590 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.640 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.690 - [robot_7_log_20260709_154752.csv] - WARNING - Esperando posición inicial... Aún no se han recibido datos de visión.
+2026-07-09 15:48:00.731 - [robot_7_log_20260709_154752.csv] - INFO - Recibido mensaje {"Wleft":-8.526512829e-15,"Wright":-1.361133428e-14} en el topic agent/7/wheel
